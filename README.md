@@ -33,5 +33,5 @@
 - Esc: Exit Game.
 
 # Rol Story: 
-- https://github.com/alexgesti/Fire_Emblem_Base_Combat/blob/main/Rol%20Story_ESP.pdf
+- ESP: https://github.com/alexgesti/Fire_Emblem_Base_Combat/blob/main/Rol%20Story_ESP.pdf
 
