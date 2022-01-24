@@ -22,7 +22,7 @@
 	- Battle Pag. 18 -> F5
 	- Battle Pag. 19 -> F6
 	- Battle Pag. 22 -> F7
-	- Team split Pag.8 -> F12
+	- Team split Pag. 8 -> F12
 - You should have a random application to select what enemy character to move, how many spots, who is your target and what action do.
 
 # Controls:
